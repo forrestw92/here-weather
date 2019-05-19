@@ -1,4 +1,6 @@
 # here-weather
+[![codecov](https://codecov.io/gh/forrestw92/here-weather/branch/master/graph/badge.svg?token=0B7JB80dIW)](https://codecov.io/gh/forrestw92/here-weather)
+[![Build Status](https://travis-ci.org/forrestw92/here-weather.svg?branch=master)](https://travis-ci.org/forrestw92/here-weather)
 
 A wrapper for [HERE Weather API](https://developer.here.com/documentation/weather/topics/overview.html) made for NodeJS
 
