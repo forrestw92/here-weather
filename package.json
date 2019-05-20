@@ -1,6 +1,6 @@
 {
   "name": "here-weather",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple api helper for HERE Weather api.",
   "main": "dist/index.js",
   "scripts": {
